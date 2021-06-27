@@ -12,14 +12,16 @@
 </template>
 
 <script>
-import EventCard from '~/components/EventCard'
+import EventCard from '@/components/EventCard'
+import EventService from '@/services/EventService'
+
 export default {
   components: {
     EventCard
   },
-  async asyncData ({ $axios, error }) {
+  async asyncData ({ error }) {
     try {
-      const response = await $axios.get('http://localhost:3000/events')
+      const response = await EventService.getEvents()
 
       return {
         events: response.data
