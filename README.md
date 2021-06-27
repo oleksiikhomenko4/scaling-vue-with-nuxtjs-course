@@ -24,4 +24,6 @@ For detailed explanation on how things work, check out [Nuxt.js docs](https://nu
 ```
 json-server --watch db.json
 PORT=3001 yarn dev
+
+http-server dist
 ```
