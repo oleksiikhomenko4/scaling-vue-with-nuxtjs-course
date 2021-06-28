@@ -126,38 +126,6 @@
     {
        "id":110,
        "name":"Italy"
-    },
-    {
-       "id":269,
-       "name":"Luxembourg"
-    },
-    {
-       "id":254,
-       "name":"Malaysia"
-    },
-    {
-       "id":253,
-       "name":"Mexico"
-    },
-    {
-       "id":157,
-       "name":"Netherlands"
-    },
-    {
-       "id":259,
-       "name":"New Zealand"
-    },
-    {
-       "id":257,
-       "name":"Norway"
-    },
-    {
-       "id":267,
-       "name":"Pakistan"
-    },
-    {
-       "id":177,
-       "name":"Poland"
     }
   ]
 }
