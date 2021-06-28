@@ -159,53 +159,5 @@
        "id":177,
        "name":"Poland"
     },
-    {
-       "id":178,
-       "name":"Portugal"
-    },
-    {
-       "id":182,
-       "name":"Romania"
-    },
-    {
-       "id":263,
-       "name":"Russia"
-    },
-    {
-       "id":252,
-       "name":"Singapore"
-    },
-    {
-       "id":206,
-       "name":"South Africa"
-    },
-    {
-       "id":266,
-       "name":"South Korea"
-    },
-    {
-       "id":208,
-       "name":"Spain"
-    },
-    {
-       "id":215,
-       "name":"Sweden"
-    },
-    {
-       "id":268,
-       "name":"Switzerland"
-    },
-    {
-       "id":228,
-       "name":"Turkey"
-    },
-    {
-       "id":235,
-       "name":"United Kingdom"
-    },
-    {
-       "id":236,
-       "name":"United States"
-    }
  ]
 }
