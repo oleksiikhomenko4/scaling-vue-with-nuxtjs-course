@@ -129,43 +129,56 @@
   "country": {
      "cities": [
       {
-         "name":"London"
+         "name":"London",
+         "url": "/london"
       },
       {
-         "name":"Paris"
+         "name":"Paris",
+         "url": "/london"
       },
       {
-         "name":"Warsaw"
+         "name":"Warsaw",
+         "url": "/london"
       },
       {
-         "name":"New York"
+         "name":"New York",
+         "url": "/london"
       },
       {
-         "name":"Washington"
+         "name":"Washington",
+         "url": "/london"
       },
       {
-         "name":"Los Angeles"
+         "name":"Los Angeles",
+         "url": "/london"
       },
       {
-         "name":"Budapest"
+         "name":"Budapest",
+         "url": "/london"
       },
       {
-         "name":"Barcelona"
+         "name":"Barcelona",
+         "url": "/london"
       },
       {
-         "name":"Madrid"
+         "name":"Madrid",
+         "url": "/london"
       },
       {
-         "name":"Rome"
+         "name":"Rome",
+         "url": "/london"
       },
       {
-         "name":"Milan"
+         "name":"Milan",
+         "url": "/london"
       },
       {
-         "name":"Munich"
+         "name":"Munich",
+         "url": "/london"
       },
       {
-         "name":"Prague"
+         "name":"Prague",
+         "url": "/london"
       }
      ],
      "offers": [
@@ -187,45 +200,78 @@
       }
      ]
    },
-   "cities": [
+   "cities": {
+      "cities": [
       {
-         "name":"London"
+         "name":"London",
+         "url": "/london"
       },
       {
-         "name":"Paris"
+         "name":"Paris",
+         "url": "/london"
       },
       {
-         "name":"Warsaw"
+         "name":"Warsaw",
+         "url": "/london"
       },
       {
-         "name":"New York"
+         "name":"New York",
+         "url": "/london"
       },
       {
-         "name":"Washington"
+         "name":"Washington",
+         "url": "/london"
       },
       {
-         "name":"Los Angeles"
+         "name":"Los Angeles",
+         "url": "/london"
       },
       {
-         "name":"Budapest"
+         "name":"Budapest",
+         "url": "/london"
       },
       {
-         "name":"Barcelona"
+         "name":"Barcelona",
+         "url": "/london"
       },
       {
-         "name":"Madrid"
+         "name":"Madrid",
+         "url": "/london"
       },
       {
-         "name":"Rome"
+         "name":"Rome",
+         "url": "/london"
       },
       {
-         "name":"Milan"
+         "name":"Milan",
+         "url": "/london"
       },
       {
-         "name":"Munich"
+         "name":"Munich",
+         "url": "/london"
       },
       {
-         "name":"Prague"
+         "name":"Prague",
+         "url": "/london"
       }
-   ],
+     ],
+     "offers": [
+      {
+         "title":"Praca dodatkowa w domu - Warszawa - Upwork",
+         "url": "/warsaw/upwork"
+      },
+      {
+         "title":"Praca dodatkowa w domu - London - Upwork",
+         "url": "/london/upwork"
+      },
+      {
+         "title":"Praca dodatkowa w domu - Budapest - Upwork",
+         "url": "/budapest/upwork"
+      },
+      {
+         "title":"Praca dodatkowa w domu - Munich - Upwork",
+         "url": "/munich/upwork"
+      }
+     ]
+  },
 }
