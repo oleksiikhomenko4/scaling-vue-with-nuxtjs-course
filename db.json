@@ -1,277 +1,283 @@
 {
-  "events": [
-    {
-      "user": {
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Cat Cabaret",
-      "description": "Yay felines!",
-      "location": "Meow Town",
-      "date": "2019-01-03T21:54:00.000Z",
-      "time": "2:00",
-      "attendees": []
-    },
-    {
-      "user": {
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Kitty Cluster",
-      "description": "Yay cats!",
-      "location": "Catlandia",
-      "date": "2019-01-31T22:09:00.000Z",
-      "time": "7:00",
-      "attendees": []
-    },
-    {
-      "user": {
-        "name": "Adam"
-      },
-      "category": "animal welfare",
-      "organizer": "Adam",
-      "title": "Puppy Parade",
-      "description": "Yay pups!",
-      "location": "Puptown ",
-      "date": "2019-02-02T23:27:00.000Z",
-      "time": "1:00",
-      "attendees": []
-    }
-  ],
-  "countries":[
-    {
-       "name":"Argentina"
-    },
-    {
-       "name":"Australia"
-    },
-    {
-       "name":"Austria"
-    },
-    {
-       "name":"Belgium"
-    },
-    {
-       "name":"Brazil"
-    },
-    {
-       "name":"Canada"
-    },
-    {
-       "name":"Chile"
-    },
-    {
-       "name":"China"
-    },
-    {
-       "name":"Colombia"
-    },
-    {
-       "name":"Czech Republic"
-    },
-    {
-       "name":"Denmark"
-    },
-    {
-       "name":"Finland"
-    },
-    {
-       "name":"France"
-    },
-    {
-       "name":"Germany"
-    },
-    {
-       "name":"Greece"
-    },
-    {
-       "name":"Hong Kong"
-    },
-    {
-       "name":"Hungary"
-    },
-    {
-       "name":"Ireland"
-    },
-    {
-       "name":"Israel"
-    },
-    {
-       "name":"Italy"
-    },
-    {
-       "name":"Luxembourg"
-    },
-    {
-       "name":"Malaysia"
-    },
-    {
-       "name":"Mexico"
-    },
-    {
-       "name":"Netherlands"
-    },
-    {
-       "name":"New Zealand"
-    },
-    {
-       "name":"Norway"
-    },
-    {
-       "name":"Pakistan"
-    },
-    {
-       "name":"Poland"
-    }
-  ],
-  "country": {
-     "cities": [
+   "events":[
       {
-         "name":"London",
-         "url": "/london"
+         "user":{
+            "name":"Adam"
+         },
+         "category":"animal welfare",
+         "organizer":"Adam",
+         "title":"Cat Cabaret",
+         "description":"Yay felines!",
+         "location":"Meow Town",
+         "date":"2019-01-03T21:54:00.000Z",
+         "time":"2:00",
+         "attendees":[
+            
+         ]
       },
       {
-         "name":"Paris",
-         "url": "/london"
+         "user":{
+            "name":"Adam"
+         },
+         "category":"animal welfare",
+         "organizer":"Adam",
+         "title":"Kitty Cluster",
+         "description":"Yay cats!",
+         "location":"Catlandia",
+         "date":"2019-01-31T22:09:00.000Z",
+         "time":"7:00",
+         "attendees":[
+            
+         ]
       },
       {
-         "name":"Warsaw",
-         "url": "/london"
-      },
-      {
-         "name":"New York",
-         "url": "/london"
-      },
-      {
-         "name":"Washington",
-         "url": "/london"
-      },
-      {
-         "name":"Los Angeles",
-         "url": "/london"
-      },
-      {
-         "name":"Budapest",
-         "url": "/london"
-      },
-      {
-         "name":"Barcelona",
-         "url": "/london"
-      },
-      {
-         "name":"Madrid",
-         "url": "/london"
-      },
-      {
-         "name":"Rome",
-         "url": "/london"
-      },
-      {
-         "name":"Milan",
-         "url": "/london"
-      },
-      {
-         "name":"Munich",
-         "url": "/london"
-      },
-      {
-         "name":"Prague",
-         "url": "/london"
+         "user":{
+            "name":"Adam"
+         },
+         "category":"animal welfare",
+         "organizer":"Adam",
+         "title":"Puppy Parade",
+         "description":"Yay pups!",
+         "location":"Puptown ",
+         "date":"2019-02-02T23:27:00.000Z",
+         "time":"1:00",
+         "attendees":[
+            
+         ]
       }
-     ],
-     "offers": [
+   ],
+   "countries":[
       {
-         "title":"Praca dodatkowa w domu - Warszawa - Upwork",
-         "url": "/warsaw/upwork"
+         "name":"Argentina"
       },
       {
-         "title":"Praca dodatkowa w domu - London - Upwork",
-         "url": "/london/upwork"
+         "name":"Australia"
       },
       {
-         "title":"Praca dodatkowa w domu - Budapest - Upwork",
-         "url": "/budapest/upwork"
+         "name":"Austria"
       },
       {
-         "title":"Praca dodatkowa w domu - Munich - Upwork",
-         "url": "/munich/upwork"
+         "name":"Belgium"
+      },
+      {
+         "name":"Brazil"
+      },
+      {
+         "name":"Canada"
+      },
+      {
+         "name":"Chile"
+      },
+      {
+         "name":"China"
+      },
+      {
+         "name":"Colombia"
+      },
+      {
+         "name":"Czech Republic"
+      },
+      {
+         "name":"Denmark"
+      },
+      {
+         "name":"Finland"
+      },
+      {
+         "name":"France"
+      },
+      {
+         "name":"Germany"
+      },
+      {
+         "name":"Greece"
+      },
+      {
+         "name":"Hong Kong"
+      },
+      {
+         "name":"Hungary"
+      },
+      {
+         "name":"Ireland"
+      },
+      {
+         "name":"Israel"
+      },
+      {
+         "name":"Italy"
+      },
+      {
+         "name":"Luxembourg"
+      },
+      {
+         "name":"Malaysia"
+      },
+      {
+         "name":"Mexico"
+      },
+      {
+         "name":"Netherlands"
+      },
+      {
+         "name":"New Zealand"
+      },
+      {
+         "name":"Norway"
+      },
+      {
+         "name":"Pakistan"
+      },
+      {
+         "name":"Poland"
       }
-     ]
+   ],
+   "country":{
+      "cities":[
+         {
+            "name":"London",
+            "url":"/london"
+         },
+         {
+            "name":"Paris",
+            "url":"/london"
+         },
+         {
+            "name":"Warsaw",
+            "url":"/london"
+         },
+         {
+            "name":"New York",
+            "url":"/london"
+         },
+         {
+            "name":"Washington",
+            "url":"/london"
+         },
+         {
+            "name":"Los Angeles",
+            "url":"/london"
+         },
+         {
+            "name":"Budapest",
+            "url":"/london"
+         },
+         {
+            "name":"Barcelona",
+            "url":"/london"
+         },
+         {
+            "name":"Madrid",
+            "url":"/london"
+         },
+         {
+            "name":"Rome",
+            "url":"/london"
+         },
+         {
+            "name":"Milan",
+            "url":"/london"
+         },
+         {
+            "name":"Munich",
+            "url":"/london"
+         },
+         {
+            "name":"Prague",
+            "url":"/london"
+         }
+      ],
+      "offers":[
+         {
+            "title":"Praca dodatkowa w domu - Warszawa - Upwork",
+            "url":"/warsaw/upwork"
+         },
+         {
+            "title":"Praca dodatkowa w domu - London - Upwork",
+            "url":"/london/upwork"
+         },
+         {
+            "title":"Praca dodatkowa w domu - Budapest - Upwork",
+            "url":"/budapest/upwork"
+         },
+         {
+            "title":"Praca dodatkowa w domu - Munich - Upwork",
+            "url":"/munich/upwork"
+         }
+      ]
    },
-   "cities": {
-      "cities": [
-      {
-         "name":"London",
-         "url": "/london"
-      },
-      {
-         "name":"Paris",
-         "url": "/london"
-      },
-      {
-         "name":"Warsaw",
-         "url": "/london"
-      },
-      {
-         "name":"New York",
-         "url": "/london"
-      },
-      {
-         "name":"Washington",
-         "url": "/london"
-      },
-      {
-         "name":"Los Angeles",
-         "url": "/london"
-      },
-      {
-         "name":"Budapest",
-         "url": "/london"
-      },
-      {
-         "name":"Barcelona",
-         "url": "/london"
-      },
-      {
-         "name":"Madrid",
-         "url": "/london"
-      },
-      {
-         "name":"Rome",
-         "url": "/london"
-      },
-      {
-         "name":"Milan",
-         "url": "/london"
-      },
-      {
-         "name":"Munich",
-         "url": "/london"
-      },
-      {
-         "name":"Prague",
-         "url": "/london"
-      }
-     ],
-     "offers": [
-      {
-         "title":"Praca dodatkowa w domu - Warszawa - Upwork",
-         "url": "/warsaw/upwork"
-      },
-      {
-         "title":"Praca dodatkowa w domu - London - Upwork",
-         "url": "/london/upwork"
-      },
-      {
-         "title":"Praca dodatkowa w domu - Budapest - Upwork",
-         "url": "/budapest/upwork"
-      },
-      {
-         "title":"Praca dodatkowa w domu - Munich - Upwork",
-         "url": "/munich/upwork"
-      }
-     ]
-  }
+   "cities":{
+      "cities":[
+         {
+            "name":"London",
+            "url":"/london"
+         },
+         {
+            "name":"Paris",
+            "url":"/london"
+         },
+         {
+            "name":"Warsaw",
+            "url":"/london"
+         },
+         {
+            "name":"New York",
+            "url":"/london"
+         },
+         {
+            "name":"Washington",
+            "url":"/london"
+         },
+         {
+            "name":"Los Angeles",
+            "url":"/london"
+         },
+         {
+            "name":"Budapest",
+            "url":"/london"
+         },
+         {
+            "name":"Barcelona",
+            "url":"/london"
+         },
+         {
+            "name":"Madrid",
+            "url":"/london"
+         },
+         {
+            "name":"Rome",
+            "url":"/london"
+         },
+         {
+            "name":"Milan",
+            "url":"/london"
+         },
+         {
+            "name":"Munich",
+            "url":"/london"
+         },
+         {
+            "name":"Prague",
+            "url":"/london"
+         }
+      ],
+      "offers":[
+         {
+            "title":"Praca dodatkowa w domu - Warszawa - Upwork",
+            "url":"/warsaw/upwork"
+         },
+         {
+            "title":"Praca dodatkowa w domu - London - Upwork",
+            "url":"/london/upwork"
+         },
+         {
+            "title":"Praca dodatkowa w domu - Budapest - Upwork",
+            "url":"/budapest/upwork"
+         },
+         {
+            "title":"Praca dodatkowa w domu - Munich - Upwork",
+            "url":"/munich/upwork"
+         }
+      ]
+   }
 }
