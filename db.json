@@ -1,9 +1,7 @@
 {
   "events": [
     {
-      "id": 5928101,
       "user": {
-        "id": "abc123",
         "name": "Adam"
       },
       "category": "animal welfare",
@@ -16,9 +14,7 @@
       "attendees": []
     },
     {
-      "id": 8419988,
       "user": {
-        "id": "abc123",
         "name": "Adam"
       },
       "category": "animal welfare",
@@ -31,9 +27,7 @@
       "attendees": []
     },
     {
-      "id": 4582797,
       "user": {
-        "id": "abc123",
         "name": "Adam"
       },
       "category": "animal welfare",
@@ -48,170 +42,149 @@
   ],
   "countries":[
     {
-       "id":261,
        "name":"Argentina"
     },
     {
-       "id":251,
        "name":"Australia"
     },
     {
-       "id":15,
        "name":"Austria"
     },
     {
-       "id":22,
        "name":"Belgium"
     },
     {
-       "id":32,
        "name":"Brazil"
     },
     {
-       "id":40,
        "name":"Canada"
     },
     {
-       "id":265,
        "name":"Chile"
     },
     {
-       "id":260,
        "name":"China"
     },
     {
-       "id":262,
        "name":"Colombia"
     },
     {
-       "id":60,
        "name":"Czech Republic"
     },
     {
-       "id":61,
        "name":"Denmark"
     },
     {
-       "id":258,
        "name":"Finland"
     },
     {
-       "id":76,
        "name":"France"
     },
     {
-       "id":83,
        "name":"Germany"
     },
     {
-       "id":86,
        "name":"Greece"
     },
     {
-       "id":255,
        "name":"Hong Kong"
     },
     {
-       "id":101,
        "name":"Hungary"
     },
     {
-       "id":256,
        "name":"Ireland"
     },
     {
-       "id":264,
        "name":"Israel"
     },
     {
-       "id":110,
        "name":"Italy"
     },
     {
-       "id":269,
        "name":"Luxembourg"
     },
     {
-       "id":254,
        "name":"Malaysia"
     },
     {
-       "id":253,
        "name":"Mexico"
     },
     {
-       "id":157,
        "name":"Netherlands"
     },
     {
-       "id":259,
        "name":"New Zealand"
     },
     {
-       "id":257,
        "name":"Norway"
     },
     {
-       "id":267,
        "name":"Pakistan"
     },
     {
-       "id":177,
        "name":"Poland"
     }
   ],
-  "country":[
-   {
-      "id":261,
-      "name":"London"
-   },
-   {
-      "id":251,
-      "name":"Paris"
-   },
-   {
-      "id":15,
-      "name":"Warsaw"
-   },
-   {
-      "id":76,
-      "name":"New York"
-   },
-   {
-      "id":83,
-      "name":"Washington"
-   },
-   {
-      "id":86,
-      "name":"Los Angeles"
-   },
-   {
-      "id":255,
-      "name":"Budapest"
-   },
-   {
-      "id":101,
-      "name":"Barcelona"
-   },
-   {
-      "id":256,
-      "name":"Madrid"
-   },
-   {
-      "id":264,
-      "name":"Rome"
-   },
-   {
-      "id":110,
-      "name":"Milan"
-   },
-   {
-      "id":269,
-      "name":"Munich"
-   },
-   {
-      "id":254,
-      "name":"Prague"
+  "country": {
+     "cities": [
+      {
+         "name":"London"
+      },
+      {
+         "name":"Paris"
+      },
+      {
+         "name":"Warsaw"
+      },
+      {
+         "name":"New York"
+      },
+      {
+         "name":"Washington"
+      },
+      {
+         "name":"Los Angeles"
+      },
+      {
+         "name":"Budapest"
+      },
+      {
+         "name":"Barcelona"
+      },
+      {
+         "name":"Madrid"
+      },
+      {
+         "name":"Rome"
+      },
+      {
+         "name":"Milan"
+      },
+      {
+         "name":"Munich"
+      },
+      {
+         "name":"Prague"
+      }
+     ],
+     "offers": [
+      {
+         "title":"Praca dodatkowa w domu - Warszawa - Upwork",
+         "url": "/warsaw/upwork"
+      },
+      {
+         "title":"Praca dodatkowa w domu - London - Upwork",
+         "url": "/london/upwork"
+      },
+      {
+         "title":"Praca dodatkowa w domu - Budapest - Upwork",
+         "url": "/budapest/upwork"
+      },
+      {
+         "title":"Praca dodatkowa w domu - Munich - Upwork",
+         "url": "/munich/upwork"
+      }
+     ]
    }
-  ]
 }
