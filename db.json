@@ -148,51 +148,51 @@
       },
       {
          "name":"Paris",
-         "url": "/london"
+         "url": "/paris"
       },
       {
          "name":"Warsaw",
-         "url": "/london"
+         "url": "/warsaw"
       },
       {
          "name":"New York",
-         "url": "/london"
+         "url": "/new-york-city"
       },
       {
          "name":"Washington",
-         "url": "/london"
+         "url": "/washington"
       },
       {
          "name":"Los Angeles",
-         "url": "/london"
+         "url": "/los-angeles"
       },
       {
          "name":"Budapest",
-         "url": "/london"
+         "url": "/budapest"
       },
       {
          "name":"Barcelona",
-         "url": "/london"
+         "url": "/barcelona"
       },
       {
          "name":"Madrid",
-         "url": "/london"
+         "url": "/madrid"
       },
       {
          "name":"Rome",
-         "url": "/london"
+         "url": "/rome"
       },
       {
          "name":"Milan",
-         "url": "/london"
+         "url": "/milan"
       },
       {
          "name":"Munich",
-         "url": "/london"
+         "url": "/munich"
       },
       {
          "name":"Prague",
-         "url": "/london"
+         "url": "/prague"
       }
      ],
      "offers": [
