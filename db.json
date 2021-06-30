@@ -186,5 +186,46 @@
          "url": "/munich/upwork"
       }
      ]
-   }
+   },
+   "cities": [
+      {
+         "name":"London"
+      },
+      {
+         "name":"Paris"
+      },
+      {
+         "name":"Warsaw"
+      },
+      {
+         "name":"New York"
+      },
+      {
+         "name":"Washington"
+      },
+      {
+         "name":"Los Angeles"
+      },
+      {
+         "name":"Budapest"
+      },
+      {
+         "name":"Barcelona"
+      },
+      {
+         "name":"Madrid"
+      },
+      {
+         "name":"Rome"
+      },
+      {
+         "name":"Milan"
+      },
+      {
+         "name":"Munich"
+      },
+      {
+         "name":"Prague"
+      }
+   ],
 }
