@@ -43,101 +43,137 @@
   "countries":[
     {
        "name":"Argentina",
+       "alternatives": []
+    },
+    {
+       "name":"Australia",
+       "alternatives": []
+    },
+    {
+       "name":"Austria",
+       "alternatives": []
+    },
+    {
+       "name":"Belgium",
+       "alternatives": []
+    },
+    {
+       "name":"Brazil",
+       "alternatives": []
+    },
+    {
+       "name":"Canada",
        "alternatives": [
          {
             "hreflang": "en",
-            "name": "argentina"
+            "name": "Canada"
          },
          {
-            "hreflang": "po",
-            "name": "argentinos"
+            "hreflang": "fr",
+            "name": "Canada"
          },
          {
-            "hreflang": "pl",
-            "name": "argentina"
+            "hreflang": "ro",
+            "name": "Canada"
          }
        ]
     },
     {
-       "name":"Australia"
+       "name":"Chile",
+       "alternatives": []
     },
     {
-       "name":"Austria"
+       "name":"China",
+       "alternatives": []
     },
     {
-       "name":"Belgium"
+       "name":"Colombia",
+       "alternatives": []
     },
     {
-       "name":"Brazil"
+       "name":"Czech Republic",
+       "alternatives": []
     },
     {
-       "name":"Canada"
+       "name":"Denmark",
+       "alternatives": []
     },
     {
-       "name":"Chile"
+       "name":"Finland",
+       "alternatives": []
     },
     {
-       "name":"China"
+       "name":"France",
+       "alternatives": []
     },
     {
-       "name":"Colombia"
+       "name":"Germany",
+       "alternatives": []
     },
     {
-       "name":"Czech Republic"
+       "name":"Greece",
+       "alternatives": []
     },
     {
-       "name":"Denmark"
+       "name":"Hong Kong",
+       "alternatives": []
     },
     {
-       "name":"Finland"
+       "name":"Hungary",
+       "alternatives": [
+         {
+            "hreflang": "en",
+            "name": "Hungary"
+         },
+         {
+            "hreflang": "hu",
+            "name": "Magyarország"
+         }
+       ]
     },
     {
-       "name":"France"
+       "name":"Ireland",
+       "alternatives": []
     },
     {
-       "name":"Germany"
+       "name":"Israel",
+       "alternatives": []
     },
     {
-       "name":"Greece"
+       "name":"Italy",
+       "alternatives": []
     },
     {
-       "name":"Hong Kong"
+       "name":"Luxembourg",
+       "alternatives": []
     },
     {
-       "name":"Hungary"
+       "name":"Malaysia",
+       "alternatives": []
     },
     {
-       "name":"Ireland"
+       "name":"Mexico",
+       "alternatives": []
     },
     {
-       "name":"Israel"
+       "name":"Netherlands",
+       "alternatives": []
     },
     {
-       "name":"Italy"
+       "name":"New Zealand",
+       "alternatives": []
     },
     {
-       "name":"Luxembourg"
+       "name":"Norway",
+       "alternatives": []
     },
     {
-       "name":"Malaysia"
+       "name":"Pakistan",
+       "alternatives": []
     },
     {
-       "name":"Mexico"
-    },
-    {
-       "name":"Netherlands"
-    },
-    {
-       "name":"New Zealand"
-    },
-    {
-       "name":"Norway"
-    },
-    {
-       "name":"Pakistan"
-    },
-    {
-       "name":"Poland"
+       "name":"Poland",
+       "alternatives": []
     }
   ],
   "country": {
