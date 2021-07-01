@@ -180,7 +180,34 @@
      "cities": [
       {
          "name":"London",
-         "url": "/london"
+         "url": "/london",
+         "alternatives":[
+            {
+               "url":"/es/londres",
+               "hreflang":"es-gb",
+               "title":"Trabajos de medio tiempo fines de semana en Londres"
+            },
+            {
+               "url":"/london",
+               "hreflang":"en-gb",
+               "title":"Part-time weekend jobs in London"
+            },
+            {
+               "url":"/it/londra",
+               "hreflang":"it-gb",
+               "title":"Lavori part time / per studenti a Londra"
+            },
+            {
+               "url":"/fr/londres",
+               "hreflang":"fr-gb",
+               "title":"Emplois temps partiel / week-ends \u00e0 Londres"
+            },
+            {
+               "url":"/pl/londyn",
+               "hreflang":"pl-gb",
+               "title":"Praca dorywcza dodatkowa na weekendy - Londyn"
+            }
+         ]
       },
       {
          "name":"Paris",
