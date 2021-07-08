@@ -42,88 +42,166 @@
   ],
   "countries":[
     {
-       "name":"Argentina"
+       "name":"Argentina",
+       "code": "ar",
+       "alternatives": []
     },
     {
-       "name":"Australia"
+       "name":"Australia",
+       "code": "au",
+       "alternatives": []
     },
     {
-       "name":"Austria"
+       "name":"Austria",
+       "code": "at",
+       "alternatives": []
     },
     {
-       "name":"Belgium"
+       "name":"Belgium",
+       "code": "be",
+       "alternatives": []
     },
     {
-       "name":"Brazil"
+       "name":"Brazil",
+       "code": "br",
+       "alternatives": []
     },
     {
-       "name":"Canada"
+       "name":"Canada",
+       "code": "ca",
+       "alternatives": [
+         {
+            "hreflang": "en",
+            "name": "Canada"
+         },
+         {
+            "hreflang": "fr",
+            "name": "Canada"
+         },
+         {
+            "hreflang": "ro",
+            "name": "Canada"
+         }
+       ]
     },
     {
-       "name":"Chile"
+       "name":"Chile",
+       "code": "cl",
+       "alternatives": []
     },
     {
-       "name":"China"
+       "name":"China",
+       "code": "cn",
+       "alternatives": []
     },
     {
-       "name":"Colombia"
+       "name":"Colombia",
+       "code": "co",
+       "alternatives": []
     },
     {
-       "name":"Czech Republic"
+       "name":"Czech Republic",
+       "code": "cz",
+       "alternatives": []
     },
     {
-       "name":"Denmark"
+       "name":"Denmark",
+       "code": "dk",
+       "alternatives": []
     },
     {
-       "name":"Finland"
+       "name":"Finland",
+       "code": "fi",
+       "alternatives": []
     },
     {
-       "name":"France"
+       "name":"France",
+       "code": "fr",
+       "alternatives": []
     },
     {
-       "name":"Germany"
+       "name":"Germany",
+       "code": "de",
+       "alternatives": []
     },
     {
-       "name":"Greece"
+       "name":"Greece",
+       "code": "gr",
+       "alternatives": []
     },
     {
-       "name":"Hong Kong"
+       "name":"Hong Kong",
+       "code": "hk",
+       "alternatives": []
     },
     {
-       "name":"Hungary"
+       "name":"Hungary",
+       "code": "hu",
+       "alternatives": [
+         {
+            "hreflang": "en",
+            "name": "Hungary"
+         },
+         {
+            "hreflang": "hu",
+            "name": "Magyarország"
+         }
+       ]
     },
     {
-       "name":"Ireland"
+       "name":"Ireland",
+       "code": "ie",
+       "alternatives": []
     },
     {
-       "name":"Israel"
+       "name":"Israel",
+       "code": "il",
+       "alternatives": []
     },
     {
-       "name":"Italy"
+       "name":"Italy",
+       "code": "it",
+       "alternatives": []
     },
     {
-       "name":"Luxembourg"
+       "name":"Luxembourg",
+       "code": "lu",
+       "alternatives": []
     },
     {
-       "name":"Malaysia"
+       "name":"Malaysia",
+       "code": "my",
+       "alternatives": []
     },
     {
-       "name":"Mexico"
+       "name":"Mexico",
+       "code": "mx",
+       "alternatives": []
     },
     {
-       "name":"Netherlands"
+       "name":"Netherlands",
+       "code": "nl",
+       "alternatives": []
     },
     {
-       "name":"New Zealand"
+       "name":"New Zealand",
+       "code": "nz",
+       "alternatives": []
     },
     {
-       "name":"Norway"
+       "name":"Norway",
+       "code": "no",
+       "alternatives": []
     },
     {
-       "name":"Pakistan"
+       "name":"Pakistan",
+       "code": "pk",
+       "alternatives": []
     },
     {
-       "name":"Poland"
+       "name":"Poland",
+       "code": "pl",
+       "alternatives": []
     }
   ],
   "country": {
@@ -134,51 +212,51 @@
       },
       {
          "name":"Paris",
-         "url": "/london"
+         "url": "/paris"
       },
       {
          "name":"Warsaw",
-         "url": "/london"
+         "url": "/warsaw"
       },
       {
          "name":"New York",
-         "url": "/london"
+         "url": "/new-york-city"
       },
       {
          "name":"Washington",
-         "url": "/london"
+         "url": "/washington"
       },
       {
          "name":"Los Angeles",
-         "url": "/london"
+         "url": "/los-angeles"
       },
       {
          "name":"Budapest",
-         "url": "/london"
+         "url": "/budapest"
       },
       {
          "name":"Barcelona",
-         "url": "/london"
+         "url": "/barcelona"
       },
       {
          "name":"Madrid",
-         "url": "/london"
+         "url": "/madrid"
       },
       {
          "name":"Rome",
-         "url": "/london"
+         "url": "/rome"
       },
       {
          "name":"Milan",
-         "url": "/london"
+         "url": "/milan"
       },
       {
          "name":"Munich",
-         "url": "/london"
+         "url": "/munich"
       },
       {
          "name":"Prague",
-         "url": "/london"
+         "url": "/prague"
       }
      ],
      "offers": [
@@ -208,51 +286,51 @@
       },
       {
          "name":"Paris",
-         "url": "/london"
+         "url": "/paris"
       },
       {
          "name":"Warsaw",
-         "url": "/london"
+         "url": "/warsaw"
       },
       {
          "name":"New York",
-         "url": "/london"
+         "url": "/new-york-city"
       },
       {
          "name":"Washington",
-         "url": "/london"
+         "url": "/washington"
       },
       {
          "name":"Los Angeles",
-         "url": "/london"
+         "url": "/los-angeles"
       },
       {
          "name":"Budapest",
-         "url": "/london"
+         "url": "/budapest"
       },
       {
          "name":"Barcelona",
-         "url": "/london"
+         "url": "/barcelona"
       },
       {
          "name":"Madrid",
-         "url": "/london"
+         "url": "/madrid"
       },
       {
          "name":"Rome",
-         "url": "/london"
+         "url": "/rome"
       },
       {
          "name":"Milan",
-         "url": "/london"
+         "url": "/milan"
       },
       {
          "name":"Munich",
-         "url": "/london"
+         "url": "/munich"
       },
       {
          "name":"Prague",
-         "url": "/london"
+         "url": "/prague"
       }
      ],
      "offers": [
