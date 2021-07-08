@@ -43,26 +43,32 @@
   "countries":[
     {
        "name":"Argentina",
+       "code": "ar",
        "alternatives": []
     },
     {
        "name":"Australia",
+       "code": "au",
        "alternatives": []
     },
     {
        "name":"Austria",
+       "code": "at",
        "alternatives": []
     },
     {
        "name":"Belgium",
+       "code": "be",
        "alternatives": []
     },
     {
        "name":"Brazil",
+       "code": "br",
        "alternatives": []
     },
     {
        "name":"Canada",
+       "code": "ca",
        "alternatives": [
          {
             "hreflang": "en",
@@ -80,46 +86,57 @@
     },
     {
        "name":"Chile",
+       "code": "cl",
        "alternatives": []
     },
     {
        "name":"China",
+       "code": "cn",
        "alternatives": []
     },
     {
        "name":"Colombia",
+       "code": "co",
        "alternatives": []
     },
     {
        "name":"Czech Republic",
+       "code": "cz",
        "alternatives": []
     },
     {
        "name":"Denmark",
+       "code": "dk",
        "alternatives": []
     },
     {
        "name":"Finland",
+       "code": "fi",
        "alternatives": []
     },
     {
        "name":"France",
+       "code": "fr",
        "alternatives": []
     },
     {
        "name":"Germany",
+       "code": "de",
        "alternatives": []
     },
     {
        "name":"Greece",
+       "code": "gr",
        "alternatives": []
     },
     {
        "name":"Hong Kong",
+       "code": "hk",
        "alternatives": []
     },
     {
        "name":"Hungary",
+       "code": "hu",
        "alternatives": [
          {
             "hreflang": "en",
@@ -133,46 +150,57 @@
     },
     {
        "name":"Ireland",
+       "code": "ie",
        "alternatives": []
     },
     {
        "name":"Israel",
+       "code": "il",
        "alternatives": []
     },
     {
        "name":"Italy",
+       "code": "it",
        "alternatives": []
     },
     {
        "name":"Luxembourg",
+       "code": "lu",
        "alternatives": []
     },
     {
        "name":"Malaysia",
+       "code": "my",
        "alternatives": []
     },
     {
        "name":"Mexico",
+       "code": "mx",
        "alternatives": []
     },
     {
        "name":"Netherlands",
+       "code": "nl",
        "alternatives": []
     },
     {
        "name":"New Zealand",
+       "code": "nz",
        "alternatives": []
     },
     {
        "name":"Norway",
+       "code": "no",
        "alternatives": []
     },
     {
        "name":"Pakistan",
+       "code": "pk",
        "alternatives": []
     },
     {
        "name":"Poland",
+       "code": "pl",
        "alternatives": []
     }
   ],
